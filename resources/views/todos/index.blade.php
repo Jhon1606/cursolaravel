@@ -10,4 +10,10 @@
             <button type="submit" class="btn btn-primary">Crear nueva tarea</button>
         </form>
     </div>
+    <div>
+        <ul class="list-group list-group-horizontal">
+            <li class="list-group-item active">Text</li>
+            <li class="list-group-item disabled" aria-disabled="true">Disabled item</li>
+        </ul>
+    </div>
 @endsection
